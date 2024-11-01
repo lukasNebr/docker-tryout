@@ -1,0 +1,4 @@
+services:
+  python-remote-repo:
+    image: "LukasNebr/python-remote-repo:latest"
+    build: .

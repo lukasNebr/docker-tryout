@@ -1,0 +1,4 @@
+services:
+  python-remote-interpreter:
+    image: "LukasNebr/python-remote-interpreter:latest"
+    build: .
